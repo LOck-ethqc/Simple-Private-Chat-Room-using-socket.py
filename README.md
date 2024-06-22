@@ -1,5 +1,5 @@
 # Simple Private Chat Room using socket.py
-**TL;DR Private chat room implemented with Vigenère &amp; AES cryptographic security measure && supports Authenticated Encryption via MD5 Hashing.**
+**TL;DR Private chat room implemented with Vigenère &amp; AES cryptographic security measures AND supports Authenticated Encryption via MD5 Hashing.**
 
 Simple chat server I built 3 days before my Graduation Project Presentation, to demonstrate and back up the main project's idea.
 Feel free to use it as a resource to fulfill your needs.
